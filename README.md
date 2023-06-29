@@ -2,9 +2,9 @@
 
 Created by:
 
-Tommy Graham,
+Tommy Graham,  
 Wasiu Oriyomi Bello,  
 Richard Hallam,  
 Dylan Power,  
-Timothy Bracey,
+Timothy Bracey,  
 and Peter Skerritt
